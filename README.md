@@ -27,7 +27,7 @@ This guide outlines the steps for post-install configuration of the open-source 
 <h2>Steps for Configuration</h2>
 
 <p>
-<img src="https://forum.osticket.com/assets/files/migrated/FileUpload/56/82e02757961e435af8e015015869b3.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://www.unixmen.com/wp-content/uploads/2015/07/Ost3.jpg" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 ⭐ Configure Email Settings: Set up the email settings to ensure the system can send and receive emails. This includes configuring SMTP for outgoing emails and setting up email fetching for incoming emails.
